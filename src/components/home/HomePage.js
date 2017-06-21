@@ -13,5 +13,5 @@ class HomePage extends React.Component {
     }
 }
 
-export default AboutPage;
+export default HomePage;
 
